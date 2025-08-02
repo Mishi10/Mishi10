@@ -4,9 +4,7 @@
 </h1>
 
 <h3 align="center">A Passionate and inquisitive developer asp</h3>
-<p align="right">
-  <img src="" alt="Girl coding animation" width="300px"/>
-</p>
+
 
 - 🌱 I’m currently learning **Machine Learning and Ai concepts that make great models**
 
