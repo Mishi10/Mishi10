@@ -3,11 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Manisha;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A Passionate and inquisitive developer asp</h3>
+<h3 align="center">A Passionate and inquisitive developer </h3>
 
-
+- 😊 Final Year BTech Computer Science undergraduate 
+- ✨I am exploring different tech stacks
 - 🌱 I’m currently learning **Machine Learning and Ai concepts that make great models**
-
+- 🎉 Open to collaboration and team up for Hackathons
 - 📫 How to reach me **nishumanisha1010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
